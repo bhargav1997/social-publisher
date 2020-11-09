@@ -1,0 +1,12 @@
+{
+  "name": "social-publisher",
+  "version": "1.0.0",
+  "description": "For publish posts to any social site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
